@@ -15,3 +15,15 @@
 
 - Atualizar sem fazer migração
 > yarn prisma generate
+
+
+
+## Como Rodar
+1. Instale as dependências
+> yarn
+
+2. Configure as variáveis em ambiente no arquivo .env
+3. Inicie o banco de dados
+
+4. Rode a aplicação
+> yarn dev
