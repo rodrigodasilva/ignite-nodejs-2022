@@ -12,3 +12,6 @@
 
 - Formatar 
 > yarn prisma format
+
+- Atualizar sem fazer migração
+> yarn prisma generate
